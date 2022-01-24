@@ -1,15 +1,13 @@
-## Internet(互联网)
+## 什么是HTTP?
 
-互联网是一个由计算机相互连接的全球网络，它们通过一组标准化的协议进行通信。
+HTTP 是基于`TCP/IP`的应用层通信协议，它规范了客户端和服务端之间的通信方式。它定义了通过Internet请求和传输内容。
 
 ### 免费链接
 ***
-`01-文章` [对于互联网的解释](https://www.vox.com/2014/6/16/18076282/the-internet) (打不开链接)
+`01-文章` [什么是HTTP](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/) 
 
-`02-文章` [互联网是如何工作的？](http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm) 
+`02-文章` [HTTP概述](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) 
 
-`03-视频` [互联网介绍](https://roadmap.sh/guides/what-is-internet) 
+`03-视频` [HTTP/2之旅](https://kamranahmed.info/blog/2016/08/13/http-in-depth/) 
 
-`04-视频` [互联网是如何工作的？](https://www.youtube.com/watch?v=x3c1ih2NJEg)
-
-`05-视频` [互联网如何在5分钟内运行](https://www.youtube.com/watch?v=7_LPdttKXPc)
+`04-视频` [HTTP速成课程和探索](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
