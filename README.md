@@ -1,13 +1,13 @@
-## 什么是HTTP?
+## 浏览器
 
-HTTP 是基于`TCP/IP`的应用层通信协议，它规范了客户端和服务端之间的通信方式。它定义了通过Internet请求和传输内容。
+Web浏览器是一种软件应用程序，它使用户能够通过其图形用户界面访问和显示网页或者其它在线内容。
 
 ### 免费链接
 ***
-`01-文章` [什么是HTTP](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/) 
+`01-文章` [浏览器是如何工作的](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) 
 
-`02-文章` [HTTP概述](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) 
+`02-文章` [渲染引擎在浏览器中的角色](https://www.browserstack.com/guide/browser-rendering-engine) 
 
-`03-视频` [HTTP/2之旅](https://kamranahmed.info/blog/2016/08/13/http-in-depth/) 
+`03-文章` [渲染页面：浏览器的工作原理](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work) 
 
-`04-视频` [HTTP速成课程和探索](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+`04-视频` [Web浏览器如何工作](https://www.youtube.com/watch?v=WjDrMKZWCt0)
