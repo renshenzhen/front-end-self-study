@@ -1,11 +1,11 @@
-## DNS
+## Domain Name
 
-域名系统（DNS）是Internet的电话簿。人类通过域名（如baidu.com或者bilibili.com）在线访问信息。Web浏览器通过Internet协议（IP）地址进行交互。DNS将域名转换为IP地址，因此浏览器可以加载Internet资源。
+域名是用于访问网站的唯一且易于记忆的地址，例如“baidu.com”和“bilibili.com”。借助DNS系统，用户可以使用域名连接到网站。
 
 ### 免费链接
 ***
-`01-文章` [什么是DNS？](https://www.cloudflare.com/zh-cn/learning/dns/what-is-dns/) 
+`01-文章` [什么是域名？](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name) 
 
-`02-视频` [DNS及其工作原理](https://www.youtube.com/watch?v=Wj0od2ag5sk) 
+`02-文章` [什么是域名？|域名与URL](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/) 
 
-`03-视频` [DNS记录](https://www.youtube.com/watch?v=7lxgpKh_fRY) 
+`03-视频` [初学者指南：域名是如何工作的](https://www.youtube.com/watch?v=Y4cRx19nhJk) 
