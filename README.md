@@ -1,13 +1,11 @@
-## 浏览器
+## DNS
 
-Web浏览器是一种软件应用程序，它使用户能够通过其图形用户界面访问和显示网页或者其它在线内容。
+域名系统（DNS）是Internet的电话簿。人类通过域名（如baidu.com或者bilibili.com）在线访问信息。Web浏览器通过Internet协议（IP）地址进行交互。DNS将域名转换为IP地址，因此浏览器可以加载Internet资源。
 
 ### 免费链接
 ***
-`01-文章` [浏览器是如何工作的](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) 
+`01-文章` [什么是DNS？](https://www.cloudflare.com/zh-cn/learning/dns/what-is-dns/) 
 
-`02-文章` [渲染引擎在浏览器中的角色](https://www.browserstack.com/guide/browser-rendering-engine) 
+`02-视频` [DNS及其工作原理](https://www.youtube.com/watch?v=Wj0od2ag5sk) 
 
-`03-文章` [渲染页面：浏览器的工作原理](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work) 
-
-`04-视频` [Web浏览器如何工作](https://www.youtube.com/watch?v=WjDrMKZWCt0)
+`03-视频` [DNS记录](https://www.youtube.com/watch?v=7lxgpKh_fRY) 
